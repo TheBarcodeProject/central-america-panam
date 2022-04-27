@@ -1,6 +1,10 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/TheBarcodeProject/central-america-panam/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/TheBarcodeProject/central-america-panam/blob/main/README.es.md)
+
+
 # Centroamérica en los Panamericanos
 
-This repository contains the data and source code for The Barcode's "Centroamerica en los Panamericanos" [visual essay](https://www.thebarcode.io/pudieron_ser_nuestras/ 'Pudieron ser nuestras')
+This repository contains the data and source code for The Barcode's "Centroamerica en los Panamericanos" [visual essay](https://www.thebarcode.io/pudieron_ser_nuestras/ 'Pudieron ser nuestras').
 
 ## Installation
 
@@ -19,7 +23,7 @@ python central_america_panam
 ```
 
 ## The data
-You will find a folder named "clean_data" on the parent directory.  These csv feed the essay's visualizations.
+You will find a directory named "clean_data" on the parent directory. These csv feed the essay's visualizations.
 
 
 ## License
