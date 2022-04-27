@@ -7,7 +7,7 @@ Este repositorio contiene los datos y el código fuente para el [ensayo visual](
 
 ## Instalación
 
-Cole el repositorio y, desde el directorio padre, use [pip](https://pip.pypa.io/en/stable/) para instalar los paquetes requeridos.
+Clone el repositorio y, desde el directorio padre, use [pip](https://pip.pypa.io/en/stable/) para instalar los paquetes requeridos.
 
 ```bash
 pip install -r requirements.txt
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Uso
 
-Corra el script usando Python
+Corra el script usando Python.
 
 ```python
 python central_america_panam
