@@ -21,7 +21,7 @@ Corra el script usando Python
 python central_america_panam
 ```
 
-## The data
+## Los datos
 Encontrará una carpeta llamada "clean_data" en el directorio padre. Estos archivos CSV alimentan las visualizaciones del ensayo.
 
 ## Licencia
