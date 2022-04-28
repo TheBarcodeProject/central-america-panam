@@ -83,7 +83,6 @@ def load_and_clean_indicators(filename, indicator):
 def load_and_clean_corruption_data(url):
     """ Loads and cleans the Corruption Perception Index dataset from a Wikipedia URL and returns the clean dataframe  """
 
-    #df_corruption = pd.read_html()[2]
     df_corruption = pd.read_html(url)[2]
     df_corruption = df_corruption[['País o territorio', '2019[11]​']]
     df_corruption.columns = df_corruption.columns.droplevel()
