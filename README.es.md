@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/TheBarcodeProject/central-america-panam/blob/main/README.md)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/TheBarcodeProject/central-america-panam/blob/main/README.es.md)
+[![en](https://img.shields.io/badge/lang-en-pink.svg)](https://github.com/TheBarcodeProject/central-america-panam/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-es-purple.svg)](https://github.com/TheBarcodeProject/central-america-panam/blob/main/README.es.md)
 
 # Centroamérica en los Panamericanos
 
